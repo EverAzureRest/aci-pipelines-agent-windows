@@ -6,7 +6,7 @@ Currently Windows support is only still in the planning phase for Azure Containe
 
 ## About
 
-This project will build a docker container for an Azure Pipelines Windows Agent which can be deployed to Azure Container Instances in a private VNET using the provided template.
+This project will build a docker container for an Azure Pipelines Windows Agent.  Once Azure Container Instances have Windows support in a private VNET, the agent can be deployed using the provided template.
 
 ## How to use
 
