@@ -2,7 +2,7 @@
 
 Azure DevOps Pipelines Windows Agent docker build and templates to deploy in Azure Container Instance with basic private VNET connectivity when that functionality exists.
 
-Currently Windows support is only still in the planning phase for Azure Container Instances.  This project still allows you to build and push the image to a Container Registry, or use ACR to build the image.
+Currently Windows support is only still in the planning phase for Azure Container Instances with VNET support.  This project still allows you to build and push the image to a Container Registry, or use ACR to build the image.
 
 ## About
 
